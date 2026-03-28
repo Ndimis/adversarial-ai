@@ -9,7 +9,7 @@ This repository focuses on **Adversarial Machine Learning**, specifically the de
 | No. | Project Name                                   | Defense Strategy        | Status      |
 | :-- | :--------------------------------------------- | :---------------------- | :---------- |
 | 01  | [Prompt Firewall](./pa01-prompt-injection-Firewall) | Semantic Classification | ✅ Complete |
-| 02  | Data Poisoning Detector                        | Statistical Analysis    | 📅 Planned  |
+| 02  | pa02-pii_guard                       | Statistical Analysis    | ✅ Complete   |
 
 ## ⚙️ Why this matters
 
